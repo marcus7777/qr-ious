@@ -1,0 +1,6 @@
+{
+  "name": "qr-ious",
+  "dependencies": {
+    "qrious": "neocotic/qrious#^2.1.0"
+  }
+}
